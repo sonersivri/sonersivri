@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @sonersivri
+- 👀 I’m interested in java, AWS
