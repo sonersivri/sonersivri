@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @sonersivri
-- 👀 I’m interested in java, AWS
+- 👀 I’m interested in Java, AWS
